@@ -3,7 +3,7 @@
 /// @author : Joshua Um
 /// Date : November 15 2021
 /// 
-/// Problem Statement : Create a class called Vehicle, which has an association with Person class. Then create a Truck class derrived from Vehicle class.
+/// Problem Statement : Rewrite the code so that inheritance is used to represent the different types of aliens instead of the “type” parameter, and add a new damage instance variable that follows objected oriented principles. 
 /// 
 /// Plan:
 /// 1. Create Alien and derrived Alien class objects.
